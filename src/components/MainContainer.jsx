@@ -52,6 +52,10 @@ const MainContainer = () => {
       {cartShow && <CartContainer />}
     </div>
   );
+  <footer>
+    Made By Yash Kaskar❤️
+</footer>
+   
 };
 
 export default MainContainer;
